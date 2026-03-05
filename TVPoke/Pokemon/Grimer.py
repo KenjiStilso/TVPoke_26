@@ -1,7 +1,7 @@
 from TVPoke.BaseClasses.PokeTypes import Poison
 from TVPoke.BaseClasses.Move import Move
 
-class Golduck(Poison):
+class Grimer(Poison):
     def __init__(self):
         moves = [
             Move("Crunch", "NORMAL", 40),
