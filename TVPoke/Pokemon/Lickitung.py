@@ -9,4 +9,4 @@ class Lickitung(Normal):
             Move("Body Slam", "NORMAL", 85),
             Move("Knock Off", "DARK", 65)
         ]
-        super().__init__("Lickitung", 90, moves, "./TVPoke/Pokemon/imgs/Mewtwo.png")
+        super().__init__("Lickitung", 90, moves, "./TVPoke/Pokemon/imgs/Lickitung.png")
