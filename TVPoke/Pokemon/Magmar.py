@@ -9,4 +9,4 @@ class Magmar(Fire):
             Move("Sacred Fire", "FIRE", 1000),
             Move("Eruption", "FIRE", 2000)
         ]
-        super().__init__("Magmar", 50000, moves, "magmar.png")
+        super().__init__("Magmar", 50000, moves, "Magmar.png")
